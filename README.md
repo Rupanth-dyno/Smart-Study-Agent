@@ -45,7 +45,7 @@ The agent receives a user question, selects the appropriate tool(s) based on the
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-assistant-project.git
+git clone https://github.com/Rupanth-dyno/ai-assistant-project.git
 cd ai-assistant-project
 ```
 
