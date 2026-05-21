@@ -111,6 +111,6 @@ No environment variables or API keys are needed for the default configuration.
 
 ## Author
 
-**Santhosh Yellu**  
+**Rupanth Abhinav Pitta**  
 DIP392 – Practical Task  
 Riga Technical University, 2025/26
