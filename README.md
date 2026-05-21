@@ -1,4 +1,4 @@
-# AI Study Assistant
+# Smart-Study-Agent
 
 An AI-powered study assistant agent built in Python. The agent processes student questions and uses multiple tools to deliver helpful answers — including a calculator, file reader, knowledge base search, and text summarizer.
 
